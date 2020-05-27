@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537384207254",
+    "firebase_url": "https://sns-project-8f08d.firebaseio.com",
+    "project_id": "sns-project-8f08d",
+    "storage_bucket": "sns-project-8f08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537384207254:android:2dc482d7f3445e7b3153b7",
+        "android_client_info": {
+          "package_name": "com.example.foodtrip_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537384207254-66gvi20j7lkhr8dmkosh41irpu16s6vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22OiGSuuB0m5E-QzZ2TjpcambktjqtoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537384207254-66gvi20j7lkhr8dmkosh41irpu16s6vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
